@@ -1,3 +1,9 @@
 There once was a man named jeff. Jeff enjoyed programming, he often coded in 
 his free time. One day jeff was working away at a project he had started recently.
 Little did he know that his work that day would destroy not only his life, but millions. 
+
+Jeff decided to make a brand new for loop. He was well aware of the implications
+of for loops, but he decided to do something that no one else has done
+before. It is often told only in legend. He started the for loop at
+i=1.
+
