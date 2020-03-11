@@ -1,9 +1,18 @@
-There once was a man named jeff. Jeff enjoyed programming, he often coded in 
-his free time. One day jeff was working away at a project he had started recently.
+There once was a man named Jeff. Jeff enjoyed programming, he often coded in 
+his free time. One day Jeff was working away at a project he had started recently.
 Little did he know that his work that day would destroy not only his life, but millions. 
 
 Jeff decided to make a brand new for loop. He was well aware of the implications
 of for loops, but he decided to do something that no one else has done
 before. It is often told only in legend. He started the for loop at
 i=1.
+
+This idea, although simple in principle, had never been done before. For loops
+were always started at i=0 because array indexing started at 0. That was
+just the way coding was, and no one dared to oppose this until Jeff.
+
+Jeff pulled up Eclipse, his java editor of choice and made his for loop to
+iterate through elements in an array. He changed the 0 to a 1, thinking very
+little of it. However, this small change unleashed a horror unlike anything
+programmers had ever seen before: an ArrayIndexOutOfBoundsException.
 
